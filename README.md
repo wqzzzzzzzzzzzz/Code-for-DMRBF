@@ -1,4 +1,4 @@
-Code-for-TNNLS
+Code-for-DMRBF
 
 
 Paper Title: "RBFNN-Enabled Diffusion Learning Over Complex Networks In Intricate Environments"
