@@ -1,7 +1,7 @@
 Code-for-DMRBF
 
 
-Paper Title: "RBFNN-Enabled Diffusion Learning Over Complex Networks In Intricate Environments"
+Paper Title: "RBFNN-Enabled Distributed Estimation Over Complex Networks In Intricate Environments"
 
 Abstract:
 This repository contains the numerical simulation code for the paper, including two main experiments:
@@ -12,9 +12,6 @@ These experiments are organized into two separate folders, named Simulation1 and
 
 
 Additionally, the repository includes experimental code designed to facilitate a deeper understanding of concepts proposed in other related papers, serving as a valuable reference for further research.
-
-
-For detailed parameter settings, please refer to the original paper.
 
 
 Running Environment:
